@@ -5,7 +5,7 @@ import bookMSImage from "../assets/admin-dashboard.png";
 const projects = [
   {
     id: 1,
-    name: "Airpirt form",
+    name: "Airport form",
     technologies: "React",
     image: employeeMSImage,
     github: "https://airport-form.vercel.app/",
